@@ -14,7 +14,7 @@ This list is curated by [Hasin Hayder](http://hasin.me)
 ###CSS3 Animations & Transitions
 [Transit](http://ricostacruz.com/jquery.transit/): CSS3 Transition and Animation Library  
 [Nanimator](http://github.com/hasinhayder/Nanimator): jQuery Nano Animation library for content blocks  
-[ElementTransition](http://dan-silver.github.io/ElementTransitions.js/): Simple & beautiful transitions for web pages
+[ElementTransition](http://dan-silver.github.io/ElementTransitions/): Simple & beautiful transitions for web pages
 [Typed.js](http://www.mattboldt.com/demos/typed-js/): Beautiful text being typed animation.
 
 ###Events
@@ -97,9 +97,9 @@ blurred elements over other elements
 
 ###UI Elements - Images, Galleries & Photos
 [TwentyTwenty - Before & After Differences](http://zurb.com/playground/twentytwenty): TwentyTwenty is a image difference tool which shows you the difference between two images visually  
-[Adipoli](http://cube3x.com/adipoli-jquery-image-hover-plugin/): Adipoli is a simple jQuery plugin used to bring stylish image hover effects  
+[Adipoli](http://cube3x.com/adipoli-jquery-image-hover-plugin/): Adipoli is a simple jQuery plugin used to bring stylish image hover effects. See [demo](https://cube3x.com/demo/adipoli-jquery-image-hover-plugin/) here.  
 [BackStretch](http://srobbin.com/jquery-plugins/backstretch/): a simple jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element  
-[Taggd](http://timseverien.nl/taggd): Taggd is a jQuery plugin that help you create tags on images with, or without a popup!  
+[Taggd](https://github.com/timseverien/taggd): Taggd is a jQuery plugin that help you create tags on images with, or without a popup!  
 [jGallery](http://jgallery.jakubkowalczyk.pl/): Beautiful jQuery photo gallery with albums and preloader  
 [Pongstagr.am](http://pongstr.github.io/pongstagr.am/): A jQuery plugin that lets you display your Instagram media to your website using Bootstrap Front-end styles and modal-plugin.  
 [ImgAreaSelect](https://github.com/odyniec/imgareaselect): ImgAreaSelect is a jQuery plugin for selecting a rectangular area of an image. It allows web developers to easily implement image cropping functionality, as well as other user interface features, such as photo notes.  
