@@ -14,7 +14,7 @@ This list is curated by [Hasin Hayder](http://hasin.me)
 ###CSS3 Animations & Transitions
 [Transit](http://ricostacruz.com/jquery.transit/): CSS3 Transition and Animation Library  
 [Nanimator](http://github.com/hasinhayder/Nanimator): jQuery Nano Animation library for content blocks  
-[ElementTransition](http://dan-silver.github.io/ElementTransitions.js/): Simple & beautiful transitions for web pages
+[ElementTransition](http://dan-silver.github.io/ElementTransitions/): Simple & beautiful transitions for web pages
 [Typed.js](http://www.mattboldt.com/demos/typed-js/): Beautiful text being typed animation.
 
 ###Events
